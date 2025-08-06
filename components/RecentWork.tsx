@@ -63,7 +63,7 @@ export default function RecentWork() {
             "Docker",
             "AWS S3"
           ]}
-          id={2}
+          id={1}
           images={[/* Add image imports like Vizismart1, Vizismart2, etc. */]}
           links={{
             code: "https://github.com/anujbhatt-dev/vizismart", // Update if different
@@ -87,7 +87,7 @@ export default function RecentWork() {
             "Random Forest",
             "CI/CD"
           ]}
-          id={3}
+          id={2}
           images={[/* Add image imports like AzureML1, AzureML2, etc. */]}
           links={{
             code: "https://github.com/anujbhatt-dev/azure-mlops-pipeline", // Update if different
@@ -111,7 +111,7 @@ export default function RecentWork() {
             "Node.js",
             "Prompt Engineering"
           ]}
-          id={4}
+          id={3}
           images={[/* Add image imports like JobAuto1, JobAuto2, etc. */]}
           links={{
             code: "https://github.com/anujbhatt-dev/job-hunting-automation", // Update if different
@@ -134,7 +134,7 @@ export default function RecentWork() {
             "Python",
             "Natural Language Processing"
           ]}
-          id={5}
+          id={4}
           images={[/* Add image imports like Yumbot1, Yumbot2, etc. */]}
           links={{
             code: "https://github.com/anujbhatt-dev/yumbot", // Update if different
