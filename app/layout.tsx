@@ -5,8 +5,8 @@ import Provider from "@/components/Provider";
 
 
 export const metadata: Metadata = {
-  title: "ANUJ BHATT",
-  description: "Anuj Bhatt - Full Stack Developer",
+  title: "APURVA THAKUR",
+  description: "Apurva Thakur - AI/ML Engineer",
 };
 
 export default function RootLayout({

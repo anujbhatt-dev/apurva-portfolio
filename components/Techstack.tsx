@@ -24,7 +24,7 @@ export default function Techstack() {
             image:Mongo  
         },
         {
-            text:"AzureDevops",
+            text:"Azure Devops",
             image:AzureDevops  
         },
         {

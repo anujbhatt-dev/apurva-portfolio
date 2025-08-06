@@ -83,9 +83,9 @@ export default function Project({
             </ul>
         }    
         {
-            images && <Image className='h-[40vh] lg:h-[30rem] w-auto rounded-lg object-contain my-8' src={images[imgNumber]} alt=""/>
+            images && <Image className='hidden h-[40vh] lg:h-[30rem] w-auto rounded-lg object-contain my-8' src={images[imgNumber]} alt=""/>
         }
-        <div className='flex gap-x-2 justify-start items-center flex-wrap'>
+        <div className='hidden  gap-x-2 justify-start items-center flex-wrap'>
         {
             images && images.map((img,i)=><Image key={title+i} onClick={()=>setImgNumber(i)} className={`${i==imgNumber ? "outline-2 outline-green-500 outline-offset-4" : "outline-2 outline-transparent outline-offset-0"} h-[5rem] w-auto rounded-lg mt-4 transition-all duration-150 cursor-pointer object-cover`} src={img} alt=""/>)
         }

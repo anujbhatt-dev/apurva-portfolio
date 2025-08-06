@@ -9,7 +9,7 @@ export default function Experience() {
       title: "AI/ML Engineer",
       content: (
         <div className="">
-          <div className="font-normal text-neutral-800 md:text-sm dark:text-neutral-200 flex justify-between text-lg mb-12">
+          <div className="font-normal md:text-sm text-neutral-200 flex justify-between text-lg mb-12">
                <div className="text-lg uppercase text-neutral-400">
                     64-squares LLP, Pune
                </div>
@@ -32,7 +32,7 @@ export default function Experience() {
       title: "Data Engineering Apprenticeship",
       content: (
         <div>
-          <div className="font-normal text-neutral-800 md:text-sm dark:text-neutral-200 flex justify-between text-lg mb-12">
+          <div className="font-normal md:text-sm text-neutral-200 flex justify-between text-lg mb-12">
                <div className="text-lg uppercase text-neutral-400">
                     64-squares LLP, Pune
                </div>
